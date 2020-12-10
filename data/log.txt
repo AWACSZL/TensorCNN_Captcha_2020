@@ -1,0 +1,253 @@
+打开图像路径文本
+打开图像路径记录函数
+正在执行写入到图像路径文本
+图像路径： E:/Engineering-documents/2020CCCC/AWACS/AWACS/Captcha_Recognition_Digit/image/0052.png
+IMAGE函数调用图像
+调用修改图像尺寸函数
+0052.png
+0052
+<PIL.PngImagePlugin.PngImageFile image mode=RGB size=160x60 at 0x247E494ECF8>
+二次转换尺寸的文件数： 2
+正在调用图像处理函数
+图像路径长度为： 86
+(60, 160, 3)
+正在将图像灰度化，模糊化...
+cv将灰度化图像写入...
+cv将模糊化图像写入
+threshold value: 209.0
+正在将图像二值化...
+cv将二值化图像写入...
+正在将图像膨胀...
+cv将膨胀化图像写入...
+正在将图像梯度化...
+cv将梯度化图像写入...
+正在建图像垂直分割...
+cv将垂直分割图像写入...
+开始执行神经网络模型识别...
+<PIL.Image.Image image mode=RGB size=160x60 at 0x247E4616E48>
+0052
+0052
+神经网络模型识别结束...
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E62DB860>
+pyimage2
+.!label8
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E455BAC8>
+pyimage3
+.!label9
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E45CD7B8>
+pyimage4
+.!label10
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E45CDFD0>
+pyimage5
+.!label11
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F0128>
+pyimage6
+.!label12
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F0278>
+pyimage7
+.!label13
+#========以下为模型判断与准确率函数的输出==========#
+E:/Engineering-documents/2020CCCC/AWACS/AWACS/Captcha_Recognition_Digit/image/0052.png
+0052.png
+0052
+0052
+1.0
+#====以下为程序运行时间输出测试=====#
+总程序开始时间： 1607591546.5435736
+总程序完成时间 1607591546.8335998
+模型开始时间 1607591546.5748148
+模型完成时间 1607591546.804331
+总程序运行时间 0.2900261878967285
+模型运行时间 0.22951626777648926
+#=========以下为随机选取验证码功能输出测试=========#
+开始执行随机选取验证码函数
+导入随机选取验证码图片路径
+随机选取验证码路径 .\image\1642.png
+随机选取验证码图片参数 <PIL.PngImagePlugin.PngImageFile image mode=RGB size=160x60 at 0x247E48F04A8>
+调用修改图像尺寸函数
+1642.png
+1642
+二次转换尺寸的文件数： 2
+正在调用图像处理函数
+图像路径长度为： 16
+(60, 160, 3)
+正在将图像灰度化，模糊化...
+cv将灰度化图像写入...
+cv将模糊化图像写入
+threshold value: 200.0
+正在将图像二值化...
+cv将二值化图像写入...
+正在将图像膨胀...
+cv将膨胀化图像写入...
+正在将图像梯度化...
+cv将梯度化图像写入...
+正在建图像垂直分割...
+cv将垂直分割图像写入...
+开始执行神经网络模型识别...
+<PIL.Image.Image image mode=RGB size=160x60 at 0x247E457DC18>
+1642
+1642
+神经网络模型识别结束...
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F0390>
+pyimage9
+.!label20
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F05C0>
+pyimage10
+.!label21
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E455BAC8>
+pyimage11
+.!label22
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E455BB00>
+pyimage12
+.!label23
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E455BA20>
+pyimage13
+.!label24
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E45CDEB8>
+pyimage14
+.!label25
+#========以下为模型判断与准确率函数的输出==========#
+.\image\1642.png
+1642.png
+1642
+1642
+1.0
+#====以下为程序运行时间输出测试=====#
+总程序开始时间： 1607591549.5335393
+总程序完成时间 1607591549.6267965
+模型开始时间 1607591549.5622203
+模型完成时间 1607591549.5979424
+总程序运行时间 0.09325718879699707
+模型运行时间 0.03572201728820801
+打开图像路径文本
+打开图像路径记录函数
+正在执行写入到图像路径文本
+图像路径： E:/Engineering-documents/2020CCCC/AWACS/AWACS/Captcha_Recognition_Digit/image/0052.png
+IMAGE函数调用图像
+调用修改图像尺寸函数
+0052.png
+0052
+<PIL.PngImagePlugin.PngImageFile image mode=RGB size=160x60 at 0x247E48F0550>
+二次转换尺寸的文件数： 2
+正在调用图像处理函数
+图像路径长度为： 86
+(60, 160, 3)
+正在将图像灰度化，模糊化...
+cv将灰度化图像写入...
+cv将模糊化图像写入
+threshold value: 209.0
+正在将图像二值化...
+cv将二值化图像写入...
+正在将图像膨胀...
+cv将膨胀化图像写入...
+正在将图像梯度化...
+cv将梯度化图像写入...
+正在建图像垂直分割...
+cv将垂直分割图像写入...
+开始执行神经网络模型识别...
+<PIL.Image.Image image mode=RGB size=160x60 at 0x247E48AE7F0>
+0052
+0052
+神经网络模型识别结束...
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48967B8>
+pyimage16
+.!label32
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48969B0>
+pyimage17
+.!label33
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48AE7F0>
+pyimage18
+.!label34
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F06A0>
+pyimage19
+.!label35
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F05C0>
+pyimage20
+.!label36
+调用修改图像尺寸函数
+<PIL.JpegImagePlugin.JpegImageFile image mode=L size=160x60 at 0x247E48F0080>
+pyimage21
+.!label37
+#========以下为模型判断与准确率函数的输出==========#
+E:/Engineering-documents/2020CCCC/AWACS/AWACS/Captcha_Recognition_Digit/image/0052.png
+0052.png
+0052
+0052
+1.0
+#====以下为程序运行时间输出测试=====#
+总程序开始时间： 1607591559.057935
+总程序完成时间 1607591559.1199858
+模型开始时间 1607591559.0810363
+模型完成时间 1607591559.1102521
+总程序运行时间 0.062050819396972656
+模型运行时间 0.02921581268310547
+日志显示===
+Delete File: .\process_image\binary.jpg
+Delete File: .\process_image\blurred.jpg
+Delete File: .\process_image\dilate.jpg
+Delete File: .\process_image\gradient.jpg
+Delete File: .\process_image\gray.jpg
+Delete File: .\process_image\thresh.jpg
+Delete File: .\cut_image\0.jpg
+Delete File: .\cut_image\1.jpg
+Delete File: .\cut_image\2.jpg
+Delete File: .\cut_image\3.jpg
+Delete File: .\cut_image\4.jpg
+Delete File: .\cut_image\5.jpg
+(60, 160, 3)
+threshold value: 209.0
+---------以下分割为像素位置的输出---------
+----------------
+18 37 2809
+18 37
+----------------
+53 72 3620
+53 72
+----------------
+90 112 2257
+90 112
+----------------
+115 134 1185
+115 134
+------以下为分割图像的输出------
+原始行数: 1
+字符型列表数据输出: ['18', '37', '53', '72', '90', '112', '115', '134']
+整数型列表数据输出: [18, 37, 53, 72, 90, 112, 115, 134]
+threshold value: 208.0
+拆分整数列表: 18 37
+threshold value: 207.0
+拆分整数列表: 53 72
+threshold value: 208.0
+拆分整数列表: 90 112
+threshold value: 210.0
+拆分整数列表: 115 134
+初次调整尺寸的文件数： 4
+用户打开了帮助文档
+用户打开了关于文档
+#=========以下为随机选取验证码功能输出测试=========#
+开始执行随机选取验证码函数
+导入随机选取验证码图片路径
+随机选取验证码路径 .\image\1572.png
+随机选取验证码图片参数 <PIL.PngImagePlugin.PngImageFile image mode=RGB size=160x60 at 0x247E442D438>
+调用修改图像尺寸函数
+1572.png
+1572
+开始执行socket通讯
+recv: 0052
